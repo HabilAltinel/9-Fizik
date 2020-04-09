@@ -37,12 +37,12 @@ Grill the skewered dumplings until slightly grill-marked.
 
 Brush the mitarashi sauce over dumplings.
 
-
-33.38 g | rice flour | 122
-10.01 g | sugar | 39
-33.38 g | water | 0.0
-0.33 g | matcha green tea powder | 0.0
-For 1 skewer----161 kcal
+| --- | --- | --- |
+| 33.38 g | rice flour | 122 |
+| 10.01 g | sugar | 39 |
+| 33.38 g | water | 0.0 |
+| 0.33 g | matcha green tea powder | 0.0 |
+For 1 skewer----161 kcal 
 
 ## BMI Results:
 | Person | BMI |
