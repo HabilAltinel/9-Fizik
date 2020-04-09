@@ -1,6 +1,6 @@
 # 9-Fizik
 Habil Altınel 9/B 34
-##Dango Recipe:
+## Dango Recipe:
 ![dango](https://user-images.githubusercontent.com/62997544/78508088-f05d6200-778c-11ea-8622-9366c841c0bf.jpg)
 
 
@@ -14,7 +14,7 @@ Habil Altınel 9/B 34
 - 1/2 tbsp. katakuriko starch or cornstarch, mixed with 1 1/2 tbsp. of water
 - 5 bamboo skewers
 
-###Steps to Make It
+### Steps to Make It
 Gather the ingredients.
 
 Combine shiratamako, joshinko, and sugar in a bowl.
@@ -44,7 +44,7 @@ Brush the mitarashi sauce over dumplings.
 0.33 g | matcha green tea powder | 0.0
 For 1 skewer----161 kcal
 
-##BMI Results:
+## BMI Results:
 My BMI --->20.8 kg/m2
 My Sister's BMI--->26.4 kg/m2
 My Mother's BMI--->24.3 kg/m2
