@@ -45,7 +45,9 @@ Brush the mitarashi sauce over dumplings.
 For 1 skewer----161 kcal
 
 ## BMI Results:
-My BMI --->20.8 kg/m2
-My Sister's BMI--->26.4 kg/m2
-My Mother's BMI--->24.3 kg/m2
-My Father's BMI--->26.5 kg/m2
+| Person | BMI |
+| --- | --- |
+| Me | 20.8 kg/m2 |
+| My Sister | 26.4 kg/m2 |
+| My Mother | 24.3 kg/m2 |
+| My Father | 26.5 kg/m2 |
