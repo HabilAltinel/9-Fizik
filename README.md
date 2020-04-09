@@ -5,14 +5,14 @@ Dango Recipe:
 
 
 Ingredients:
-1/3 cup joshinko, rice flour
-1/3 cup shiratamako/mochiko, sweet rice /glutinous rice flour
-2 tablespoons sugar
-3/4 cup hot water
-1/2 cup sugar
-2 1/2 tbsp. soy sauce
-1 1/2 tbsp. katakuriko starch or cornstarch, mixed with 1 1/2 tbsp. of water
-5 bamboo skewers
+- 1/3 cup joshinko, rice flour
+- 1/3 cup shiratamako/mochiko, sweet rice /glutinous rice flour
+- 2 tablespoons sugar
+- 3/4 cup hot water
+- 1/2 cup sugar
+- 1/2 tbsp. soy sauce
+- 1/2 tbsp. katakuriko starch or cornstarch, mixed with 1 1/2 tbsp. of water
+- 5 bamboo skewers
 
 Steps to Make It
 Gather the ingredients.
