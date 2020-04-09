@@ -37,7 +37,7 @@ Grill the skewered dumplings until slightly grill-marked.
 
 Brush the mitarashi sauce over dumplings.
 
-| --- | --- | --- |
+
 | 33.38 g | rice flour | 122 |
 | 10.01 g | sugar | 39 |
 | 33.38 g | water | 0.0 |
